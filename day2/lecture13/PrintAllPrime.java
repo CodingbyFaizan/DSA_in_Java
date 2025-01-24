@@ -22,6 +22,7 @@ public class PrintAllPrime {
             // else
             //     System.out.println(i + " is not prime");
         }
+        sc.close();
 
     }
 
