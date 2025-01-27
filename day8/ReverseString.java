@@ -20,7 +20,7 @@ public class ReverseString{
 
     public static void main(String[] args) {
         
-        String str = "hello";
+        String str = "Hello";
         System.out.println("Before Reverse: " + str);
         reverseString(str.toCharArray());
 
